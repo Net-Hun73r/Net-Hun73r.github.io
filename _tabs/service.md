@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-chess
+icon: fas fa-fingerprint
 order: 5
 ---
     
