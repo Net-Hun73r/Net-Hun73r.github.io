@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fa-sharp fa-light fa-user-secret
 order: 5
 ---
     👋 Hi, I’m @Net.Hun73r
