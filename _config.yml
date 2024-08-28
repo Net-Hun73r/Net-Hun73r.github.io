@@ -9,12 +9,12 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Tehran
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My Blog # the main title
+title: Saeed Hasanzadeh # the main title
 
 tagline: Malware Researcher # it will display as the sub-title
 
@@ -29,7 +29,7 @@ github:
   username: Net-Hun73r # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: nethun73r # change to your twitter username
 
 social:
   # Change to your full name.

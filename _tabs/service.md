@@ -5,7 +5,7 @@ order: 5
 ---
     
 
-    What is Malware?
+What is Malware?
 
 Any type of software that is designed to destroy and damage personal and industrial computers, servers or networks is called malware.
 
