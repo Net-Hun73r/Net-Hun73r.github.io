@@ -53,50 +53,13 @@ How to register a malware analysis request?
 
 If your computer and data are infected with some kind of malware and you don't know how to get rid of it,
 
-Before doing anything, contact Iran Crack through the "order registration form" or communication channels and use our malware analysis services.
+Before doing anything, contact me through the "order registration form" or communication channels and use our malware analysis services.
 
-Iran Crack, having an experienced technical team, will expertly investigate the pollution and help you solve the problem.
+I will professionally check the pollution and help you solve the problem.
 
-Click here to view terms and conditions.
+
 How to calculate the price of malware analysis services?
 
 Based on the type of pollution and the amount of work done on the system and files and the type of solution (method, tool, etc.), the price will be calculated and announced to you.
 
 To get more information and get the price of malware analysis services, you can contact us through the "order registration form".
-
-In Iran Crack, we will provide services with the best possible quality and price throughout the country.
-The advantage of using Iran Crack services
-
-Experienced and experienced team:
-
-With more than 20 years of experience in this field, the technical team of Iran Karak is ready to provide all kinds of software reverse engineering services to you dear compatriots.
-
-
-
-Provide service as soon as possible:
-
-All orders received by Iran Crack Group are prepared and delivered to our valued customers as soon as possible.
-
-
-
-The best price across the country:
-
-Iran Crack is always trying to provide its services with reasonable price and best quality to you dear compatriots.
-
-
-
-Fast and easy order registration:
-
-Registering an order in Iran Crack is done easily through the software crack order registration form or Telegram ID.
-
-
-
-Fast expert support:
-
-Experts of Iran Crack collection are ready to answer your questions via phone, telegram and email as soon as possible.
-
-
-
-With a 30-day test period and a money-back guarantee:
-
-All orders in Iran Crack, including custom crack and production of software and tools, etc., include a 30-day test period and a money-back guarantee.
