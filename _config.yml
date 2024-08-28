@@ -16,7 +16,7 @@ timezone:
 
 title: My Blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Malware Researcher # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   malware research, responsive and feature-rich Jekyll theme for technical writing.
